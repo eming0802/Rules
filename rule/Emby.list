@@ -17,9 +17,9 @@ DOMAIN-SUFFIX,zzm.li
 # 风月阁
 DOMAIN-SUFFIX,hellohk.me
 # 佬友记
-DOMAIN,emby.605305.xyz
-DOMAIN,ofo.033388.xyz
-DOMAIN,lyj.ysz.dpdns.org
+DOMAIN,605305.xyz
+DOMAIN,033388.xyz
+DOMAIN,ysz.dpdns.org
 # 垃圾影音
 DOMAIN-SUFFIX,xmsl.org
 # 冰镇西瓜
@@ -40,6 +40,9 @@ DOMAIN-SUFFIX,aixj.de
 # OkEmby
 DOMAIN-SUFFIX,okemby.org
 # Gousen
+DOMAIN-SUFFIX,eoos.top
+DOMAIN-SUFFIX,eoos.lol
+DOMAIN-SUFFIX,mm880.xyz
 DOMAIN-SUFFIX,gousen.cc.cd
 # Nox
 DOMAIN-SUFFIX,inemby.us.ci
