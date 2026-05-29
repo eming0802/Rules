@@ -1,3 +1,14 @@
+
+# gousen
+DOMAIN-SUFFIX,gousen.cc.cd
+# lunarisvault
+DOMAIN-SUFFIX,lunarisvault.com
+# 风月阁
+DOMAIN-SUFFIX,sbcnm.us.ci
+DOMAIN-SUFFIX,bydsb.cc.cd
+DOMAIN-SUFFIX,cnmbyd.xyz
+DOMAIN-SUFFIX,fw1.de5.net
+DOMAIN-SUFFIX,cnmbyd.de5.net
 # 影视网站
 DOMAIN-KEYWORD,libvio
 DOMAIN-KEYWORD,cupfox
@@ -7,12 +18,6 @@ DOMAIN-SUFFIX,c-zzy.com
 DOMAIN-SUFFIX,czspp.com
 DOMAIN-SUFFIX,czzzu.com
 DOMAIN-SUFFIX,omocdn.net
-# 风月阁
-DOMAIN,mwp.sbcnm.us.ci
-DOMAIN,mwp.bydsb.cc.cd
-DOMAIN,mwp.cnmbyd.de5.net
-DOMAIN,mwp.cnmbyd.xyz
-DOMAIN,mwp.fw1.de5.net
 # 其它
 DOMAIN-KEYWORD,fileball
 DOMAIN-SUFFIX,360963.xyz
