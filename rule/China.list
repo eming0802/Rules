@@ -1,5 +1,6 @@
 # gousen
 DOMAIN-SUFFIX,gousen.cc.cd
+DOMAIN,emby.eoos.lol
 # Lunaris Vault
 DOMAIN-SUFFIX,lunarisvault.com
 # 屿森
@@ -10,6 +11,8 @@ DOMAIN-SUFFIX,bydsb.cc.cd
 DOMAIN-SUFFIX,cnmbyd.xyz
 DOMAIN-SUFFIX,fw1.de5.net
 DOMAIN-SUFFIX,cnmbyd.de5.net
+# 冰镇西瓜
+DOMAIN,cf.xgua.de
 # 影视网站
 DOMAIN-KEYWORD,libvio
 DOMAIN-KEYWORD,cupfox
