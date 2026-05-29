@@ -29,6 +29,9 @@ DOMAIN-SUFFIX,sfcj.org
 DOMAIN-SUFFIX,jmsuper.com
 # 一之濑琴美
 DOMAIN-SUFFIX,ichinosekotomi.com
+# Nox
+DOMAIN-SUFFIX,inemby.us.ci
+DOMAIN,openlist.idcdd.eu.org
 # Ciallo
 DOMAIN-SUFFIX,ciallo.party
 DOMAIN-SUFFIX,yuanshen.help
@@ -39,9 +42,7 @@ DOMAIN-SUFFIX,okemby.org
 # Gousen
 DOMAIN-SUFFIX,eoos.top
 DOMAIN-SUFFIX,mm880.xyz
-# Nox
-DOMAIN-SUFFIX,inemby.us.ci
-DOMAIN,openlist.idcdd.eu.org
+
 # Nebula
 DOMAIN-SUFFIX,nebula-media.org
 # NyaMedia
