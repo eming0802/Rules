@@ -1,4 +1,6 @@
 # Emby直连
+# 乐蛙
+DOMAIN-SUFFIX,taotu.ink
 # 屿森
 DOMAIN-SUFFIX,yusen.cyou
 # 佬友记
@@ -23,7 +25,7 @@ DOMAIN,emby1.stieff.uk
 # gousen
 DOMAIN-SUFFIX,eoos.lol
 DOMAIN-SUFFIX,gousen.cc.cd
-# Lunaris Vault
+# LunarisVault
 DOMAIN-SUFFIX,lunarisvault.com
 
 # 其它
