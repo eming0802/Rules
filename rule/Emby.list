@@ -2,8 +2,6 @@
 DOMAIN-SUFFIX,xying1314.xyz
 # 瞬影
 DOMAIN-SUFFIX,n150.asia
-# 临镜
-DOMAIN-SUFFIX,liminalnet.com
 # 起点站
 DOMAIN-SUFFIX,test.28.al
 # 终点站
@@ -33,9 +31,6 @@ DOMAIN-SUFFIX,sfcj.org
 DOMAIN-SUFFIX,jmsuper.com
 # 一之濑琴美
 DOMAIN-SUFFIX,ichinosekotomi.com
-# Nox
-DOMAIN-SUFFIX,inemby.us.ci
-DOMAIN,openlist.idcdd.eu.org
 # Cola
 DOMAIN-SUFFIX,misaka.si
 # Ciallo
@@ -43,11 +38,16 @@ DOMAIN-SUFFIX,ciallo.party
 DOMAIN-SUFFIX,yuanshen.help
 # CineTrail
 DOMAIN-SUFFIX,aixj.de
+# Liminal
+DOMAIN-SUFFIX,liminalnet.com
 # OkEmby
 DOMAIN-SUFFIX,okemby.org
 # Gousen
 DOMAIN-SUFFIX,eoos.top
 DOMAIN-SUFFIX,mm880.xyz
+# Nox
+DOMAIN-SUFFIX,inemby.us.ci
+DOMAIN,openlist.idcdd.eu.org
 # Nebula
 DOMAIN-SUFFIX,nebula-media.org
 # Nyaovo
