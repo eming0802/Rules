@@ -22,8 +22,6 @@ payload:
   - DOMAIN-SUFFIX,xmsl.org
   # 冰镇西瓜
   - DOMAIN-SUFFIX,chilledmelon.com
-  # 結束乐队
-  - DOMAIN-SUFFIX,biliblili.uk
   # 非越媒体库
   - DOMAIN-SUFFIX,sfcj.org
   # 假日飞行家
@@ -40,6 +38,8 @@ payload:
   # Gousen
   - DOMAIN-SUFFIX,eoos.top
   - DOMAIN-SUFFIX,mm880.xyz
+  # Genshin
+  - DOMAIN-SUFFIX,biliblili.uk
   # HOHAI
   - DOMAIN-SUFFIX,hohai.eu.org
   # Liminal
