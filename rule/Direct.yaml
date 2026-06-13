@@ -19,7 +19,7 @@ payload:
   - DOMAIN-SUFFIX,xgua.de
   #猫窝影音
   - DOMAIN-SUFFIX,stieff.uk
-  # gousen
+  # Gousen
   - DOMAIN-SUFFIX,eoos.lol
   - DOMAIN-SUFFIX,gousen.cc.cd
   # LunarisVault
