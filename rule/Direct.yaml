@@ -1,0 +1,33 @@
+payload:
+  # Emby直连
+  # 乐蛙
+  - DOMAIN-SUFFIX,taotu.ink
+  # 屿森
+  - DOMAIN-SUFFIX,yusen.cyou
+  # 佬友记
+  - DOMAIN-SUFFIX,033388.xyz
+  # 月之轩
+  - DOMAIN-SUFFIX,43998362.xyz
+  - DOMAIN-SUFFIX,4348663.xyz
+  # 风月阁
+  - DOMAIN-SUFFIX,sbcnm.us.ci
+  - DOMAIN-SUFFIX,bydsb.cc.cd
+  - DOMAIN-SUFFIX,cnmbyd.xyz
+  - DOMAIN-SUFFIX,fw1.de5.net
+  - DOMAIN-SUFFIX,cnmbyd.de5.net
+  # 冰镇西瓜
+  - DOMAIN-SUFFIX,xgua.de
+  #猫窝影音
+  - DOMAIN-SUFFIX,stieff.uk
+  # gousen
+  - DOMAIN-SUFFIX,eoos.lol
+  - DOMAIN-SUFFIX,gousen.cc.cd
+  # LunarisVault
+  - DOMAIN-SUFFIX,lunarisvault.com
+
+  # 其它
+  - DOMAIN-SUFFIX,360963.xyz
+  - DOMAIN-SUFFIX,360520.xyz
+  - DOMAIN-SUFFIX,embyplus.dpdns.org
+  - DOMAIN-SUFFIX,zeroedge.dpdns.org
+  - DOMAIN-SUFFIX,retrogamesnexus.com
