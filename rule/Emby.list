@@ -57,6 +57,6 @@ DOMAIN-SUFFIX,bangumi.ca
 DOMAIN-SUFFIX,vip.iemby.cn
 # OkEmby
 DOMAIN-SUFFIX,okemby.org
-#
-DOMAIN-SUFFIX,emby.yxmm.xyz
+# YXMM
+DOMAIN-SUFFIX,yxmm.xyz
 
