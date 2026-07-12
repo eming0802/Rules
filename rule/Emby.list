@@ -63,3 +63,6 @@ DOMAIN-SUFFIX,bangumi.ca
 DOMAIN-SUFFIX,vip.iemby.cn
 # OkEmby
 DOMAIN-SUFFIX,okemby.org
+# Fworks
+DOMAIN-SUFFIX,fworks-emby.sylu.cc
+DOMAIN-SUFFIX,fworks-emby.webn.cc
