@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,embyplus.org
 # 见手青
 DOMAIN-SUFFIX,mooguu.top
 # 野草地
-DOMAIN-SUFFIX,od.emby.fan
+DOMAIN-SUFFIX,emby.fan
 # 这只猫
 DOMAIN-SUFFIX,zzm.li
 # 周三晚
@@ -51,7 +51,6 @@ DOMAIN-SUFFIX,hohai.eu.org
 DOMAIN-SUFFIX,3msky.com
 # Nox
 DOMAIN-SUFFIX,inemby.us.ci
-DOMAIN,openlist.idcdd.eu.org
 # Nyaovo
 DOMAIN-SUFFIX,nay.007.us.kg
 # NyaMedia
@@ -61,5 +60,4 @@ DOMAIN-SUFFIX,vip.iemby.cn
 # OkEmby
 DOMAIN-SUFFIX,okemby.org
 # Fworks
-DOMAIN-SUFFIX,fworks-emby.sylu.cc
-DOMAIN-SUFFIX,fworks-emby.webn.cc
+DOMAIN-KEYWORD,fworks-emby
