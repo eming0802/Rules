@@ -5,7 +5,6 @@ DOMAIN-SUFFIX,nebula-media.org
 # 影迹
 DOMAIN-SUFFIX,aixj.de
 # 屿森
-DOMAIN-SUFFIX,yusen.cyou
 DOMAIN-SUFFIX,yusen.cc.cd
 # 临镜
 DOMAIN-SUFFIX,liminalnet.com
@@ -21,8 +20,9 @@ DOMAIN-SUFFIX,mooguu.top
 DOMAIN-SUFFIX,emby.fan
 # 这只猫
 DOMAIN-SUFFIX,zzm.li
-# 周三晚
-DOMAIN-SUFFIX,zhousanwan.xyz
+# 佬友记
+DOMAIN-SUFFIX,605305.xyz
+DOMAIN-SUFFIX,lyj.ysz.dpdns.org
 # 桜落庭
 DOMAIN,yl.cnmbyd.xyz
 # 风月阁
