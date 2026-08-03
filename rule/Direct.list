@@ -21,5 +21,5 @@ DOMAIN-SUFFIX,zeroedge.dpdns.org
 DOMAIN-SUFFIX,retrogamesnexus.com
 DOMAIN-SUFFIX,invite.linuxdo.org
 
-IP-CIDR,23.227.38.65,no-resolve
-IP-CIDR,104.18.4.237,no-resolve
+IP-CIDR,23.227.38.65/32,no-resolve
+IP-CIDR,104.18.4.237/32,no-resolve
