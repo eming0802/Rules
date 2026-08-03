@@ -22,12 +22,21 @@ DOMAIN-SUFFIX,retrogamesnexus.com
 DOMAIN-SUFFIX,invite.linuxdo.org
 
 # CloudFlare
-IP-CIDR,23.227.38.65/32,no-resolve
-IP-CIDR,104.18.4.237/32,no-resolve
-IP-CIDR,103.20.223.119/32,no-resolve
-IP-CIDR,104.18.4.24/32,no-resolve
-IP-CIDR,104.18.5.24/32,no-resolve
-IP-CIDR,104.16.4.14/32,no-resolve
-IP-CIDR,104.26.9.74/32,no-resolve
 IP-CIDR,104.18.42.163/32,no-resolve
 IP-CIDR,172.64.145.93/32,no-resolve
+IP-CIDR,23.227.38.65/32,no-resolve
+IP-CIDR,104.18.5.24/32,no-resolve
+IP-CIDR,172.64.145.202/32,no-resolve
+IP-CIDR,104.18.4.237/32,no-resolve
+IP-CIDR,172.64.145.105/32,no-resolve
+IP-CIDR,172.64.145.18/32,no-resolve
+IP-CIDR,172.64.145.38/32,no-resolve
+IP-CIDR,104.18.42.218/32,no-resolve
+IP-CIDR,172.64.146.124/32,no-resolve
+IP-CIDR,104.18.39.123/32,no-resolve
+IP-CIDR,104.18.4.24/32,no-resolve
+IP-CIDR,104.18.42.151/32,no-resolve
+IP-CIDR,172.64.154.211/32,no-resolve
+IP-CIDR,104.16.4.14/32,no-resolve
+IP-CIDR,104.26.10.36/32,no-resolve
+IP-CIDR,172.64.146.157/32,no-resolve
