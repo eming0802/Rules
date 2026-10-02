@@ -69,5 +69,9 @@ DOMAIN-SUFFIX,nay.007.us.kg
 DOMAIN-SUFFIX,bangumi.ca
 # OkEmby
 DOMAIN-SUFFIX,okemby.org
+# Potdot
+DOMAIN-SUFFIX,potdot.de
 # Fworks
 DOMAIN-KEYWORD,fworks-emby
+# SaturDay
+DOMAIN-SUFFIX,saturdayent.top
