@@ -18,8 +18,6 @@ DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,embyplus.org
 # 见手青
 DOMAIN-SUFFIX,mooguu.top
-# 大西瓜
-DOMAIN-SUFFIX,yuntv.de
 # 这只猫
 DOMAIN-SUFFIX,zzm.li
 # 佬友记
@@ -40,6 +38,8 @@ DOMAIN-SUFFIX,ciallo.party
 DOMAIN-SUFFIX,yuanshen.help
 # 结束乐队
 DOMAIN-SUFFIX,biliblili.uk
+# 常温西瓜
+DOMAIN-SUFFIX,yuntv.de
 # 冰镇西瓜
 DOMAIN-SUFFIX,chilledmelon.com
 # 随时跑路
