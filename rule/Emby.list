@@ -73,5 +73,7 @@ DOMAIN-SUFFIX,okemby.org
 DOMAIN-SUFFIX,potdot.de
 # Fworks
 DOMAIN-KEYWORD,fworks-emby
+# SNTP
+DOMAIN-SUFFIX,cn2gias.uk
 # SaturDay
 DOMAIN-SUFFIX,saturdayent.top
