@@ -21,3 +21,8 @@ DOMAIN-SUFFIX,edtzero.dpdns.org
 DOMAIN-SUFFIX,zeroedge.dpdns.org
 DOMAIN-SUFFIX,retrogamesnexus.com
 DOMAIN-SUFFIX,invite.linuxdo.org
+
+# CloudFlare
+IP-CIDR,23.227.38.65/32,no-resolve
+IP-CIDR,104.16.4.14/32,no-resolve
+IP-CIDR,104.18.42.218/32,no-resolve
