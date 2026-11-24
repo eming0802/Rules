@@ -1,0 +1,49 @@
+name: Build MRS
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'rule/*.list'
+      - 'rule/*.txt'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download mihomo
+        run: |
+          VERSION=$(curl -sL https://github.com/MetaCubeX/mihomo/releases/download/Prerelease-Alpha/version.txt)
+          curl -sL -o mihomo.gz "https://github.com/MetaCubeX/mihomo/releases/download/Prerelease-Alpha/mihomo-linux-amd64-${VERSION}.gz"
+          gzip -dc mihomo.gz > mihomo
+          chmod +x mihomo
+          ./mihomo -v
+
+      - name: Build cloudflare.mrs (ipcidr)
+        run: |
+          ./mihomo convert-ruleset ipcidr text rule/cloudflare.list rule/cloudflare.mrs
+
+      - name: Build domain MRS files
+        run: |
+          for f in rule/*.list; do
+            base=$(basename "$f" .list)
+            # cloudflare.list is an IP list, already handled above
+            if [ "$base" = "cloudflare" ]; then continue; fi
+            # strip comments and empty lines, wrap in yaml payload for domain convert
+            { echo "payload:"; grep -vE '^\s*#|^\s*$' "$f" | sed 's/^/  - /'; } > "/tmp/${base}.yaml"
+            ./mihomo convert-ruleset domain yaml "/tmp/${base}.yaml" "rule/${base}.mrs"
+          done
+
+      - name: Commit MRS files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add rule/*.mrs
+          git diff --cached --quiet || git commit -m "Auto-build MRS files"
+          git push
