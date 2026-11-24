@@ -1,6 +1,9 @@
 # Emby直连
 # 予初
-DOMAIN-KEYWORD,yusen
+DOMAIN-SUFFIX,yusen.cyou
+DOMAIN-SUFFIX,yusen6.ccwu.cc
+DOMAIN-SUFFIX,yusen.us.ci
+DOMAIN-SUFFIX,yusen.cc.cd
 # 乐蛙
 DOMAIN-SUFFIX,taotu.ink
 DOMAIN-SUFFIX,eb.atrct.cn
@@ -17,8 +20,8 @@ DOMAIN-SUFFIX,entertang.work
 # 其它
 DOMAIN-SUFFIX,360963.xyz
 DOMAIN-SUFFIX,360520.xyz
-DOMAIN-SUFFI,tmdb.ipv64.net
-DOMAIN-SUFFI,dmplay.ipv64.net
+DOMAIN-SUFFIX,tmdb.ipv64.net
+DOMAIN-SUFFIX,dmplay.ipv64.net
 DOMAIN-SUFFIX,edtzero.dpdns.org
 DOMAIN-SUFFIX,retrogamesnexus.com
 DOMAIN-SUFFIX,invite.linuxdo.org
